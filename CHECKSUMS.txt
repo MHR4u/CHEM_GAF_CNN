@@ -1,0 +1,5 @@
+SHA-256 checksums of the downloadable archives
+verify with:  sha256sum -c CHECKSUMS.txt
+
+b14dc55acf353566c910c1a36205c31bb97abc9e18b379c5bd24d7559b4f2fa9  CNN_Results_Package.zip  (1,135,488 bytes)
+456fb4b875f4925320fdd7b1d4b83eb990d8a10a7043d77b5c97534ad8af9add  GAF_CNN_Complete.zip  (9,860,629 bytes)
