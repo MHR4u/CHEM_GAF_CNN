@@ -1,0 +1,16 @@
+file,true_class,predicted_class,correct,prob_Benzochinone,prob_Catecolo,prob_Ferro-Ferri,prob_Idrochinone,prob_Idrochinone-Benzochinone,max_confidence
+1mMSPE-Benzochinone_1.png,Benzochinone,Benzochinone,True,0.716599,0.016601833,0.030985158,0.22849864,0.007315408,0.716599
+1mMSPE-Benzochinone_2.png,Benzochinone,Benzochinone,True,0.9148952,0.056446955,0.008168607,0.010085743,0.010403519,0.9148952
+1mMSPE-Benzochinone_3.png,Benzochinone,Benzochinone,True,0.96266323,0.011252044,0.0046244264,0.011834975,0.009625306,0.96266323
+1mMSPE-Catecolo_1.png,Catecolo,Catecolo,True,0.0013672631,0.9928652,0.0022576747,0.0010146132,0.002495237,0.9928652
+1mMSPE-Catecolo_2.png,Catecolo,Catecolo,True,0.0020347575,0.99135584,0.002294342,0.0013108011,0.003004253,0.99135584
+1mMSPE-Catecolo_3.png,Catecolo,Catecolo,True,0.017992947,0.9665354,0.0059842686,0.0034046336,0.006082781,0.9665354
+1mMSPE-Ferro-Ferri_1.png,Ferro-Ferri,Ferro-Ferri,True,0.00019259447,0.00033654837,0.99592495,0.0034661733,7.9701735e-05,0.99592495
+1mMSPE-Ferro-Ferri_2.png,Ferro-Ferri,Ferro-Ferri,True,0.00034622155,0.0004786048,0.9946806,0.0043708067,0.00012380687,0.9946806
+1mMSPE-Ferro-Ferri_3.png,Ferro-Ferri,Ferro-Ferri,True,0.00051582913,0.00057154795,0.9940498,0.004730649,0.0001322322,0.9940498
+1mMSPE-Idrochinone_1.png,Idrochinone,Idrochinone,True,0.00031196396,0.00057305064,0.00029819916,0.99810517,0.0007116825,0.99810517
+1mMSPE-Idrochinone_2.png,Idrochinone,Idrochinone,True,0.0021848977,0.002002931,0.0006040762,0.99269605,0.002512168,0.99269605
+1mMSPE-Idrochinone_3.png,Idrochinone,Idrochinone,True,0.0013257639,0.00061334943,0.0014367814,0.99596953,0.00065462175,0.99596953
+HB21SPE-Idrochinone-Benzochinone_1.png,Idrochinone-Benzochinone,Idrochinone-Benzochinone,True,0.026566427,0.022741858,0.08365528,0.02732755,0.8397089,0.8397089
+HB21SPE-Idrochinone-Benzochinone_2.png,Idrochinone-Benzochinone,Idrochinone-Benzochinone,True,0.020562122,0.01833733,0.014406789,0.02604839,0.9206453,0.9206453
+HB21SPE-Idrochinone-Benzochinone_3.png,Idrochinone-Benzochinone,Idrochinone-Benzochinone,True,0.0022310908,0.003715541,0.0013521009,0.0022554419,0.99044585,0.99044585

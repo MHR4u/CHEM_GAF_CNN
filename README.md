@@ -39,3 +39,18 @@ Citation<br>
 If you use this software for your research, please cite our paper:<br>
 <br>
 Rocco Cancelliere, Mario Molinara, Antonio Maffucci, Laura Micheli, "Artificial Intelligence-assisted electrochemical sensors for qualitative and semi-quantitative multiplexed analyses."<br>
+<br>
+Complete Output Files<br>
+The original gaf_cnn.py prints its results (probabilities, confusion matrix, accuracy, classification report) on the screen only. To keep every generated result, use:<br>
+<br>
+python/gaf_cnn_full_output.sh<br>
+<br>
+which runs the same trained model (CNN_5classes__epo_4000_pat_1000_batch_16_tl.keras) on both test sets and writes all outputs into the results/ folder:<br>
+<br>
+results/CNN_COMPLETE_OUTPUT.txt - single complete text file: overall results, model architecture, the full probability matrix for every image, per image predictions, confusion matrices, accuracy (overall and per class), classification report and the list of misclassified images.<br>
+results/CNN_FULL_REPORT.html - the same results as a self contained HTML report (open in a browser).<br>
+results/&lt;split&gt;_predictions.csv - one row per test image with the probability of each of the 5 classes.<br>
+results/&lt;split&gt;_confusion_matrix.csv / .png - confusion matrix as table and as image.<br>
+results/&lt;split&gt;_classification_report.txt - precision / recall / f1 report.<br>
+results/&lt;split&gt;_summary.json and all_splits_summary.json - machine readable summaries.<br>
+results/all_generated_images_manifest.csv - inventory of all 264 generated PNG images in data/ (CNN input sets and the raw GAF generator output).<br>

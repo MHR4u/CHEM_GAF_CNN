@@ -1,0 +1,63 @@
+{
+  "split": "shuffled",
+  "test_dir": "/home/user/CHEM_GAF_CNN/data/gafimages/shuffled/Test",
+  "model": "/home/user/CHEM_GAF_CNN/python/CNN_5classes__epo_4000_pat_1000_batch_16_tl.keras",
+  "model_params": 20641,
+  "n_test_images": 25,
+  "n_test_images_reported_by_original_function": 25,
+  "n_classes": 5,
+  "class_names": [
+    "Benzochinone",
+    "Catecolo",
+    "Ferro-Ferri",
+    "Idrochinone",
+    "Idrochinone-Benzochinone"
+  ],
+  "accuracy_percent": 96.0,
+  "accuracy_by_class_percent": {
+    "Benzochinone": 88.8889,
+    "Catecolo": 100.0,
+    "Ferro-Ferri": 100.0,
+    "Idrochinone": 100.0,
+    "Idrochinone-Benzochinone": 100.0
+  },
+  "n_correct": 24,
+  "n_wrong": 1,
+  "confusion_matrix": [
+    [
+      8,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      4,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      5,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      4,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      3
+    ]
+  ]
+}
