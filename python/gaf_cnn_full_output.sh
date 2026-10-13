@@ -13,3 +13,6 @@ PYTHON="${PYTHON:-python3}"
   --out_dir ../results
 
 "$PYTHON" make_full_report.py --results_dir ../results --data_dir ../data/gafimages
+
+"$PYTHON" make_final_report.py --results_dir ../results --data_dir ../data/gafimages \
+  --model CNN_5classes__epo_4000_pat_1000_batch_16_tl.keras
