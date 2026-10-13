@@ -3,7 +3,7 @@
         Electrochemical image classification (Gramian Angular Field + CNN)
 ================================================================================================
 
-Generated (UTC) : 2026-10-13 14:32:02 UTC
+Generated (UTC) : 2026-10-13 15:04:16 UTC
 Model file      : CNN_5classes__epo_4000_pat_1000_batch_16_tl.keras
 Model parameters: 20,641
 Keras version   : 3.3.3   (saved 2024-10-10@16:49:11)
@@ -208,6 +208,10 @@ the two molecules having very similar quinone/hydroquinone redox responses.
 
   results/CNN_COMPLETE_OUTPUT.txt
   results/CNN_FULL_REPORT.html
+  results/CNN_Final_Report.docx
+  results/CNN_Final_Report.pdf
+  results/CNN_Final_Report.txt
+  results/CNN_Results_Package.zip
   results/README.md
   results/all_generated_images_manifest.csv
   results/all_splits_summary.json

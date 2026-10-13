@@ -1,0 +1,14 @@
+CNN classification report - split: concentrations_based
+model: CNN_5classes__epo_4000_pat_1000_batch_16_tl.keras
+====================================================================================================
+                          precision    recall  f1-score   support
+
+            Benzochinone     1.0000    1.0000    1.0000         3
+                Catecolo     1.0000    1.0000    1.0000         3
+             Ferro-Ferri     1.0000    1.0000    1.0000         3
+             Idrochinone     1.0000    1.0000    1.0000         3
+Idrochinone-Benzochinone     1.0000    1.0000    1.0000         3
+
+                accuracy                         1.0000        15
+               macro avg     1.0000    1.0000    1.0000        15
+            weighted avg     1.0000    1.0000    1.0000        15

@@ -1,0 +1,265 @@
+file,class,split,layout,kind,size_bytes,path
+1mMSPE-Benzochinone_1.png,Benzochinone,Test,concentrations_based,CNN input image (gafimages),28047,data/gafimages/concentrations_based/Test/Benzochinone/1mMSPE-Benzochinone_1.png
+1mMSPE-Benzochinone_2.png,Benzochinone,Test,concentrations_based,CNN input image (gafimages),26893,data/gafimages/concentrations_based/Test/Benzochinone/1mMSPE-Benzochinone_2.png
+1mMSPE-Benzochinone_3.png,Benzochinone,Test,concentrations_based,CNN input image (gafimages),27106,data/gafimages/concentrations_based/Test/Benzochinone/1mMSPE-Benzochinone_3.png
+1mMSPE-Catecolo_1.png,Catecolo,Test,concentrations_based,CNN input image (gafimages),29135,data/gafimages/concentrations_based/Test/Catecolo/1mMSPE-Catecolo_1.png
+1mMSPE-Catecolo_2.png,Catecolo,Test,concentrations_based,CNN input image (gafimages),29215,data/gafimages/concentrations_based/Test/Catecolo/1mMSPE-Catecolo_2.png
+1mMSPE-Catecolo_3.png,Catecolo,Test,concentrations_based,CNN input image (gafimages),29086,data/gafimages/concentrations_based/Test/Catecolo/1mMSPE-Catecolo_3.png
+1mMSPE-Ferro-Ferri_1.png,Ferro-Ferri,Test,concentrations_based,CNN input image (gafimages),28763,data/gafimages/concentrations_based/Test/Ferro-Ferri/1mMSPE-Ferro-Ferri_1.png
+1mMSPE-Ferro-Ferri_2.png,Ferro-Ferri,Test,concentrations_based,CNN input image (gafimages),28660,data/gafimages/concentrations_based/Test/Ferro-Ferri/1mMSPE-Ferro-Ferri_2.png
+1mMSPE-Ferro-Ferri_3.png,Ferro-Ferri,Test,concentrations_based,CNN input image (gafimages),28737,data/gafimages/concentrations_based/Test/Ferro-Ferri/1mMSPE-Ferro-Ferri_3.png
+HB21SPE-Idrochinone-Benzochinone_1.png,Idrochinone-Benzochinone,Test,concentrations_based,CNN input image (gafimages),26335,data/gafimages/concentrations_based/Test/Idrochinone-Benzochinone/HB21SPE-Idrochinone-Benzochinone_1.png
+HB21SPE-Idrochinone-Benzochinone_2.png,Idrochinone-Benzochinone,Test,concentrations_based,CNN input image (gafimages),26948,data/gafimages/concentrations_based/Test/Idrochinone-Benzochinone/HB21SPE-Idrochinone-Benzochinone_2.png
+HB21SPE-Idrochinone-Benzochinone_3.png,Idrochinone-Benzochinone,Test,concentrations_based,CNN input image (gafimages),25796,data/gafimages/concentrations_based/Test/Idrochinone-Benzochinone/HB21SPE-Idrochinone-Benzochinone_3.png
+1mMSPE-Idrochinone_1.png,Idrochinone,Test,concentrations_based,CNN input image (gafimages),29168,data/gafimages/concentrations_based/Test/Idrochinone/1mMSPE-Idrochinone_1.png
+1mMSPE-Idrochinone_2.png,Idrochinone,Test,concentrations_based,CNN input image (gafimages),29117,data/gafimages/concentrations_based/Test/Idrochinone/1mMSPE-Idrochinone_2.png
+1mMSPE-Idrochinone_3.png,Idrochinone,Test,concentrations_based,CNN input image (gafimages),29160,data/gafimages/concentrations_based/Test/Idrochinone/1mMSPE-Idrochinone_3.png
+0.01mMSPE-Benzochinone_1.png,Benzochinone,Train,concentrations_based,CNN input image (gafimages),25771,data/gafimages/concentrations_based/Train/Benzochinone/0.01mMSPE-Benzochinone_1.png
+0.01mMSPE-Benzochinone_2.png,Benzochinone,Train,concentrations_based,CNN input image (gafimages),26274,data/gafimages/concentrations_based/Train/Benzochinone/0.01mMSPE-Benzochinone_2.png
+0.01mMSPE-Benzochinone_3.png,Benzochinone,Train,concentrations_based,CNN input image (gafimages),25820,data/gafimages/concentrations_based/Train/Benzochinone/0.01mMSPE-Benzochinone_3.png
+0.1mMSPE-Benzochinone_1.png,Benzochinone,Train,concentrations_based,CNN input image (gafimages),23428,data/gafimages/concentrations_based/Train/Benzochinone/0.1mMSPE-Benzochinone_1.png
+0.1mMSPE-Benzochinone_2.png,Benzochinone,Train,concentrations_based,CNN input image (gafimages),22750,data/gafimages/concentrations_based/Train/Benzochinone/0.1mMSPE-Benzochinone_2.png
+0.1mMSPE-Benzochinone_3.png,Benzochinone,Train,concentrations_based,CNN input image (gafimages),22312,data/gafimages/concentrations_based/Train/Benzochinone/0.1mMSPE-Benzochinone_3.png
+0.5mMSPE-Benzochinone_1.png,Benzochinone,Train,concentrations_based,CNN input image (gafimages),23376,data/gafimages/concentrations_based/Train/Benzochinone/0.5mMSPE-Benzochinone_1.png
+0.5mMSPE-Benzochinone_2.png,Benzochinone,Train,concentrations_based,CNN input image (gafimages),21863,data/gafimages/concentrations_based/Train/Benzochinone/0.5mMSPE-Benzochinone_2.png
+0.5mMSPE-Benzochinone_3.png,Benzochinone,Train,concentrations_based,CNN input image (gafimages),25645,data/gafimages/concentrations_based/Train/Benzochinone/0.5mMSPE-Benzochinone_3.png
+0.01mMSPE-Catecolo_1.png,Catecolo,Train,concentrations_based,CNN input image (gafimages),23857,data/gafimages/concentrations_based/Train/Catecolo/0.01mMSPE-Catecolo_1.png
+0.01mMSPE-Catecolo_2.png,Catecolo,Train,concentrations_based,CNN input image (gafimages),23755,data/gafimages/concentrations_based/Train/Catecolo/0.01mMSPE-Catecolo_2.png
+0.01mMSPE-Catecolo_3.png,Catecolo,Train,concentrations_based,CNN input image (gafimages),23062,data/gafimages/concentrations_based/Train/Catecolo/0.01mMSPE-Catecolo_3.png
+0.1mMSPE-Catecolo_1.png,Catecolo,Train,concentrations_based,CNN input image (gafimages),26016,data/gafimages/concentrations_based/Train/Catecolo/0.1mMSPE-Catecolo_1.png
+0.1mMSPE-Catecolo_2.png,Catecolo,Train,concentrations_based,CNN input image (gafimages),26071,data/gafimages/concentrations_based/Train/Catecolo/0.1mMSPE-Catecolo_2.png
+0.1mMSPE-Catecolo_3.png,Catecolo,Train,concentrations_based,CNN input image (gafimages),23525,data/gafimages/concentrations_based/Train/Catecolo/0.1mMSPE-Catecolo_3.png
+0.5mMSPE-Catecolo_1.png,Catecolo,Train,concentrations_based,CNN input image (gafimages),29288,data/gafimages/concentrations_based/Train/Catecolo/0.5mMSPE-Catecolo_1.png
+0.5mMSPE-Catecolo_2.png,Catecolo,Train,concentrations_based,CNN input image (gafimages),29075,data/gafimages/concentrations_based/Train/Catecolo/0.5mMSPE-Catecolo_2.png
+0.5mMSPE-Catecolo_3.png,Catecolo,Train,concentrations_based,CNN input image (gafimages),29192,data/gafimages/concentrations_based/Train/Catecolo/0.5mMSPE-Catecolo_3.png
+0.01mMSPE-Ferro-Ferri_1.png,Ferro-Ferri,Train,concentrations_based,CNN input image (gafimages),22976,data/gafimages/concentrations_based/Train/Ferro-Ferri/0.01mMSPE-Ferro-Ferri_1.png
+0.01mMSPE-Ferro-Ferri_2.png,Ferro-Ferri,Train,concentrations_based,CNN input image (gafimages),23471,data/gafimages/concentrations_based/Train/Ferro-Ferri/0.01mMSPE-Ferro-Ferri_2.png
+0.01mMSPE-Ferro-Ferri_3.png,Ferro-Ferri,Train,concentrations_based,CNN input image (gafimages),22770,data/gafimages/concentrations_based/Train/Ferro-Ferri/0.01mMSPE-Ferro-Ferri_3.png
+0.1mMSPE-Ferro-Ferri_1.png,Ferro-Ferri,Train,concentrations_based,CNN input image (gafimages),27123,data/gafimages/concentrations_based/Train/Ferro-Ferri/0.1mMSPE-Ferro-Ferri_1.png
+0.1mMSPE-Ferro-Ferri_2.png,Ferro-Ferri,Train,concentrations_based,CNN input image (gafimages),27222,data/gafimages/concentrations_based/Train/Ferro-Ferri/0.1mMSPE-Ferro-Ferri_2.png
+0.1mMSPE-Ferro-Ferri_3.png,Ferro-Ferri,Train,concentrations_based,CNN input image (gafimages),27599,data/gafimages/concentrations_based/Train/Ferro-Ferri/0.1mMSPE-Ferro-Ferri_3.png
+0.5mMSPE-Ferro-Ferri_1.png,Ferro-Ferri,Train,concentrations_based,CNN input image (gafimages),27920,data/gafimages/concentrations_based/Train/Ferro-Ferri/0.5mMSPE-Ferro-Ferri_1.png
+0.5mMSPE-Ferro-Ferri_2.png,Ferro-Ferri,Train,concentrations_based,CNN input image (gafimages),27822,data/gafimages/concentrations_based/Train/Ferro-Ferri/0.5mMSPE-Ferro-Ferri_2.png
+0.5mMSPE-Ferro-Ferri_3.png,Ferro-Ferri,Train,concentrations_based,CNN input image (gafimages),28820,data/gafimages/concentrations_based/Train/Ferro-Ferri/0.5mMSPE-Ferro-Ferri_3.png
+HB11SPE-Idrochinone-Benzochinone_1.png,Idrochinone-Benzochinone,Train,concentrations_based,CNN input image (gafimages),27422,data/gafimages/concentrations_based/Train/Idrochinone-Benzochinone/HB11SPE-Idrochinone-Benzochinone_1.png
+HB11SPE-Idrochinone-Benzochinone_2.png,Idrochinone-Benzochinone,Train,concentrations_based,CNN input image (gafimages),27781,data/gafimages/concentrations_based/Train/Idrochinone-Benzochinone/HB11SPE-Idrochinone-Benzochinone_2.png
+HB11SPE-Idrochinone-Benzochinone_3.png,Idrochinone-Benzochinone,Train,concentrations_based,CNN input image (gafimages),27560,data/gafimages/concentrations_based/Train/Idrochinone-Benzochinone/HB11SPE-Idrochinone-Benzochinone_3.png
+HB12SPE-Idrochinone-Benzochinone_1.png,Idrochinone-Benzochinone,Train,concentrations_based,CNN input image (gafimages),27765,data/gafimages/concentrations_based/Train/Idrochinone-Benzochinone/HB12SPE-Idrochinone-Benzochinone_1.png
+HB12SPE-Idrochinone-Benzochinone_2.png,Idrochinone-Benzochinone,Train,concentrations_based,CNN input image (gafimages),28386,data/gafimages/concentrations_based/Train/Idrochinone-Benzochinone/HB12SPE-Idrochinone-Benzochinone_2.png
+HB12SPE-Idrochinone-Benzochinone_3.png,Idrochinone-Benzochinone,Train,concentrations_based,CNN input image (gafimages),27649,data/gafimages/concentrations_based/Train/Idrochinone-Benzochinone/HB12SPE-Idrochinone-Benzochinone_3.png
+HB13SPE-Idrochinone-Benzochinone_1.png,Idrochinone-Benzochinone,Train,concentrations_based,CNN input image (gafimages),26608,data/gafimages/concentrations_based/Train/Idrochinone-Benzochinone/HB13SPE-Idrochinone-Benzochinone_1.png
+HB13SPE-Idrochinone-Benzochinone_2.png,Idrochinone-Benzochinone,Train,concentrations_based,CNN input image (gafimages),26660,data/gafimages/concentrations_based/Train/Idrochinone-Benzochinone/HB13SPE-Idrochinone-Benzochinone_2.png
+HB13SPE-Idrochinone-Benzochinone_3.png,Idrochinone-Benzochinone,Train,concentrations_based,CNN input image (gafimages),25722,data/gafimages/concentrations_based/Train/Idrochinone-Benzochinone/HB13SPE-Idrochinone-Benzochinone_3.png
+0.01mMSPE-Idrochinone_1.png,Idrochinone,Train,concentrations_based,CNN input image (gafimages),24159,data/gafimages/concentrations_based/Train/Idrochinone/0.01mMSPE-Idrochinone_1.png
+0.01mMSPE-Idrochinone_2.png,Idrochinone,Train,concentrations_based,CNN input image (gafimages),25765,data/gafimages/concentrations_based/Train/Idrochinone/0.01mMSPE-Idrochinone_2.png
+0.01mMSPE-Idrochinone_3.png,Idrochinone,Train,concentrations_based,CNN input image (gafimages),25471,data/gafimages/concentrations_based/Train/Idrochinone/0.01mMSPE-Idrochinone_3.png
+0.1mMSPE-Idrochinone_1.png,Idrochinone,Train,concentrations_based,CNN input image (gafimages),24706,data/gafimages/concentrations_based/Train/Idrochinone/0.1mMSPE-Idrochinone_1.png
+0.1mMSPE-Idrochinone_2.png,Idrochinone,Train,concentrations_based,CNN input image (gafimages),26699,data/gafimages/concentrations_based/Train/Idrochinone/0.1mMSPE-Idrochinone_2.png
+0.1mMSPE-Idrochinone_3.png,Idrochinone,Train,concentrations_based,CNN input image (gafimages),25646,data/gafimages/concentrations_based/Train/Idrochinone/0.1mMSPE-Idrochinone_3.png
+0.5mMSPE-Idrochinone_1.png,Idrochinone,Train,concentrations_based,CNN input image (gafimages),29179,data/gafimages/concentrations_based/Train/Idrochinone/0.5mMSPE-Idrochinone_1.png
+0.5mMSPE-Idrochinone_2.png,Idrochinone,Train,concentrations_based,CNN input image (gafimages),29111,data/gafimages/concentrations_based/Train/Idrochinone/0.5mMSPE-Idrochinone_2.png
+0.5mMSPE-Idrochinone_3.png,Idrochinone,Train,concentrations_based,CNN input image (gafimages),29156,data/gafimages/concentrations_based/Train/Idrochinone/0.5mMSPE-Idrochinone_3.png
+2mMSPE-Benzochinone_1.png,Benzochinone,Val,concentrations_based,CNN input image (gafimages),28497,data/gafimages/concentrations_based/Val/Benzochinone/2mMSPE-Benzochinone_1.png
+2mMSPE-Benzochinone_2.png,Benzochinone,Val,concentrations_based,CNN input image (gafimages),28516,data/gafimages/concentrations_based/Val/Benzochinone/2mMSPE-Benzochinone_2.png
+2mMSPE-Benzochinone_3.png,Benzochinone,Val,concentrations_based,CNN input image (gafimages),28566,data/gafimages/concentrations_based/Val/Benzochinone/2mMSPE-Benzochinone_3.png
+2mMSPE-Catecolo_1.png,Catecolo,Val,concentrations_based,CNN input image (gafimages),28408,data/gafimages/concentrations_based/Val/Catecolo/2mMSPE-Catecolo_1.png
+2mMSPE-Catecolo_2.png,Catecolo,Val,concentrations_based,CNN input image (gafimages),28636,data/gafimages/concentrations_based/Val/Catecolo/2mMSPE-Catecolo_2.png
+2mMSPE-Catecolo_3.png,Catecolo,Val,concentrations_based,CNN input image (gafimages),28524,data/gafimages/concentrations_based/Val/Catecolo/2mMSPE-Catecolo_3.png
+2mMSPE-Ferro-Ferri_1.png,Ferro-Ferri,Val,concentrations_based,CNN input image (gafimages),27663,data/gafimages/concentrations_based/Val/Ferro-Ferri/2mMSPE-Ferro-Ferri_1.png
+2mMSPE-Ferro-Ferri_2.png,Ferro-Ferri,Val,concentrations_based,CNN input image (gafimages),27727,data/gafimages/concentrations_based/Val/Ferro-Ferri/2mMSPE-Ferro-Ferri_2.png
+2mMSPE-Ferro-Ferri_3.png,Ferro-Ferri,Val,concentrations_based,CNN input image (gafimages),28011,data/gafimages/concentrations_based/Val/Ferro-Ferri/2mMSPE-Ferro-Ferri_3.png
+HB31SPE-Idrochinone-Benzochinone_1.png,Idrochinone-Benzochinone,Val,concentrations_based,CNN input image (gafimages),26826,data/gafimages/concentrations_based/Val/Idrochinone-Benzochinone/HB31SPE-Idrochinone-Benzochinone_1.png
+HB31SPE-Idrochinone-Benzochinone_2.png,Idrochinone-Benzochinone,Val,concentrations_based,CNN input image (gafimages),25822,data/gafimages/concentrations_based/Val/Idrochinone-Benzochinone/HB31SPE-Idrochinone-Benzochinone_2.png
+HB31SPE-Idrochinone-Benzochinone_3.png,Idrochinone-Benzochinone,Val,concentrations_based,CNN input image (gafimages),26604,data/gafimages/concentrations_based/Val/Idrochinone-Benzochinone/HB31SPE-Idrochinone-Benzochinone_3.png
+2mMSPE-Idrochinone_1.png,Idrochinone,Val,concentrations_based,CNN input image (gafimages),28272,data/gafimages/concentrations_based/Val/Idrochinone/2mMSPE-Idrochinone_1.png
+2mMSPE-Idrochinone_2.png,Idrochinone,Val,concentrations_based,CNN input image (gafimages),28588,data/gafimages/concentrations_based/Val/Idrochinone/2mMSPE-Idrochinone_2.png
+2mMSPE-Idrochinone_3.png,Idrochinone,Val,concentrations_based,CNN input image (gafimages),28565,data/gafimages/concentrations_based/Val/Idrochinone/2mMSPE-Idrochinone_3.png
+0.01mMSPE-Benzochinone_2.png,Benzochinone,Test,shuffled,CNN input image (gafimages),26274,data/gafimages/shuffled/Test/Benzochinone/0.01mMSPE-Benzochinone_2.png
+0.01mMSPE-Benzochinone_3.png,Benzochinone,Test,shuffled,CNN input image (gafimages),25820,data/gafimages/shuffled/Test/Benzochinone/0.01mMSPE-Benzochinone_3.png
+0.1mMSPE-Benzochinone_2.png,Benzochinone,Test,shuffled,CNN input image (gafimages),22750,data/gafimages/shuffled/Test/Benzochinone/0.1mMSPE-Benzochinone_2.png
+0.5mMSPE-Benzochinone_2.png,Benzochinone,Test,shuffled,CNN input image (gafimages),21863,data/gafimages/shuffled/Test/Benzochinone/0.5mMSPE-Benzochinone_2.png
+1mMSPE-Benzochinone_1.png,Benzochinone,Test,shuffled,CNN input image (gafimages),28047,data/gafimages/shuffled/Test/Benzochinone/1mMSPE-Benzochinone_1.png
+1mMSPE-Benzochinone_3.png,Benzochinone,Test,shuffled,CNN input image (gafimages),27106,data/gafimages/shuffled/Test/Benzochinone/1mMSPE-Benzochinone_3.png
+2mMSPE-Benzochinone_1.png,Benzochinone,Test,shuffled,CNN input image (gafimages),28497,data/gafimages/shuffled/Test/Benzochinone/2mMSPE-Benzochinone_1.png
+2mMSPE-Benzochinone_2.png,Benzochinone,Test,shuffled,CNN input image (gafimages),28516,data/gafimages/shuffled/Test/Benzochinone/2mMSPE-Benzochinone_2.png
+2mMSPE-Benzochinone_3.png,Benzochinone,Test,shuffled,CNN input image (gafimages),28566,data/gafimages/shuffled/Test/Benzochinone/2mMSPE-Benzochinone_3.png
+0.01mMSPE-Catecolo_1.png,Catecolo,Test,shuffled,CNN input image (gafimages),23857,data/gafimages/shuffled/Test/Catecolo/0.01mMSPE-Catecolo_1.png
+0.1mMSPE-Catecolo_1.png,Catecolo,Test,shuffled,CNN input image (gafimages),26016,data/gafimages/shuffled/Test/Catecolo/0.1mMSPE-Catecolo_1.png
+0.1mMSPE-Catecolo_3.png,Catecolo,Test,shuffled,CNN input image (gafimages),23525,data/gafimages/shuffled/Test/Catecolo/0.1mMSPE-Catecolo_3.png
+0.5mMSPE-Catecolo_1.png,Catecolo,Test,shuffled,CNN input image (gafimages),29288,data/gafimages/shuffled/Test/Catecolo/0.5mMSPE-Catecolo_1.png
+0.01mMSPE-Ferro-Ferri_1.png,Ferro-Ferri,Test,shuffled,CNN input image (gafimages),22976,data/gafimages/shuffled/Test/Ferro-Ferri/0.01mMSPE-Ferro-Ferri_1.png
+0.5mMSPE-Ferro-Ferri_1.png,Ferro-Ferri,Test,shuffled,CNN input image (gafimages),27920,data/gafimages/shuffled/Test/Ferro-Ferri/0.5mMSPE-Ferro-Ferri_1.png
+0.5mMSPE-Ferro-Ferri_3.png,Ferro-Ferri,Test,shuffled,CNN input image (gafimages),28820,data/gafimages/shuffled/Test/Ferro-Ferri/0.5mMSPE-Ferro-Ferri_3.png
+2mMSPE-Ferro-Ferri_1.png,Ferro-Ferri,Test,shuffled,CNN input image (gafimages),27663,data/gafimages/shuffled/Test/Ferro-Ferri/2mMSPE-Ferro-Ferri_1.png
+2mMSPE-Ferro-Ferri_3.png,Ferro-Ferri,Test,shuffled,CNN input image (gafimages),28011,data/gafimages/shuffled/Test/Ferro-Ferri/2mMSPE-Ferro-Ferri_3.png
+HB13SPE-Idrochinone-Benzochinone_1.png,Idrochinone-Benzochinone,Test,shuffled,CNN input image (gafimages),26608,data/gafimages/shuffled/Test/Idrochinone-Benzochinone/HB13SPE-Idrochinone-Benzochinone_1.png
+HB21SPE-Idrochinone-Benzochinone_3.png,Idrochinone-Benzochinone,Test,shuffled,CNN input image (gafimages),25796,data/gafimages/shuffled/Test/Idrochinone-Benzochinone/HB21SPE-Idrochinone-Benzochinone_3.png
+HB31SPE-Idrochinone-Benzochinone_1.png,Idrochinone-Benzochinone,Test,shuffled,CNN input image (gafimages),26826,data/gafimages/shuffled/Test/Idrochinone-Benzochinone/HB31SPE-Idrochinone-Benzochinone_1.png
+0.1mMSPE-Idrochinone_2.png,Idrochinone,Test,shuffled,CNN input image (gafimages),26699,data/gafimages/shuffled/Test/Idrochinone/0.1mMSPE-Idrochinone_2.png
+0.5mMSPE-Idrochinone_2.png,Idrochinone,Test,shuffled,CNN input image (gafimages),29111,data/gafimages/shuffled/Test/Idrochinone/0.5mMSPE-Idrochinone_2.png
+0.5mMSPE-Idrochinone_3.png,Idrochinone,Test,shuffled,CNN input image (gafimages),29156,data/gafimages/shuffled/Test/Idrochinone/0.5mMSPE-Idrochinone_3.png
+2mMSPE-Idrochinone_3.png,Idrochinone,Test,shuffled,CNN input image (gafimages),28565,data/gafimages/shuffled/Test/Idrochinone/2mMSPE-Idrochinone_3.png
+0.01mMSPE-Benzochinone_1.png,Benzochinone,Train,shuffled,CNN input image (gafimages),25771,data/gafimages/shuffled/Train/Benzochinone/0.01mMSPE-Benzochinone_1.png
+0.01mMSPE-Benzochinone_3.png,Benzochinone,Train,shuffled,CNN input image (gafimages),25820,data/gafimages/shuffled/Train/Benzochinone/0.01mMSPE-Benzochinone_3.png
+0.1mMSPE-Benzochinone_1.png,Benzochinone,Train,shuffled,CNN input image (gafimages),23428,data/gafimages/shuffled/Train/Benzochinone/0.1mMSPE-Benzochinone_1.png
+0.1mMSPE-Benzochinone_2.png,Benzochinone,Train,shuffled,CNN input image (gafimages),22750,data/gafimages/shuffled/Train/Benzochinone/0.1mMSPE-Benzochinone_2.png
+0.1mMSPE-Benzochinone_3.png,Benzochinone,Train,shuffled,CNN input image (gafimages),22312,data/gafimages/shuffled/Train/Benzochinone/0.1mMSPE-Benzochinone_3.png
+0.5mMSPE-Benzochinone_1.png,Benzochinone,Train,shuffled,CNN input image (gafimages),23376,data/gafimages/shuffled/Train/Benzochinone/0.5mMSPE-Benzochinone_1.png
+0.5mMSPE-Benzochinone_2.png,Benzochinone,Train,shuffled,CNN input image (gafimages),21863,data/gafimages/shuffled/Train/Benzochinone/0.5mMSPE-Benzochinone_2.png
+0.5mMSPE-Benzochinone_3.png,Benzochinone,Train,shuffled,CNN input image (gafimages),25645,data/gafimages/shuffled/Train/Benzochinone/0.5mMSPE-Benzochinone_3.png
+1mMSPE-Benzochinone_1.png,Benzochinone,Train,shuffled,CNN input image (gafimages),28047,data/gafimages/shuffled/Train/Benzochinone/1mMSPE-Benzochinone_1.png
+1mMSPE-Benzochinone_2.png,Benzochinone,Train,shuffled,CNN input image (gafimages),26893,data/gafimages/shuffled/Train/Benzochinone/1mMSPE-Benzochinone_2.png
+2mMSPE-Benzochinone_1.png,Benzochinone,Train,shuffled,CNN input image (gafimages),28497,data/gafimages/shuffled/Train/Benzochinone/2mMSPE-Benzochinone_1.png
+2mMSPE-Benzochinone_2.png,Benzochinone,Train,shuffled,CNN input image (gafimages),28516,data/gafimages/shuffled/Train/Benzochinone/2mMSPE-Benzochinone_2.png
+2mMSPE-Benzochinone_3.png,Benzochinone,Train,shuffled,CNN input image (gafimages),28566,data/gafimages/shuffled/Train/Benzochinone/2mMSPE-Benzochinone_3.png
+0.01mMSPE-Catecolo_1.png,Catecolo,Train,shuffled,CNN input image (gafimages),23857,data/gafimages/shuffled/Train/Catecolo/0.01mMSPE-Catecolo_1.png
+0.01mMSPE-Catecolo_2.png,Catecolo,Train,shuffled,CNN input image (gafimages),23755,data/gafimages/shuffled/Train/Catecolo/0.01mMSPE-Catecolo_2.png
+0.01mMSPE-Catecolo_3.png,Catecolo,Train,shuffled,CNN input image (gafimages),23062,data/gafimages/shuffled/Train/Catecolo/0.01mMSPE-Catecolo_3.png
+0.1mMSPE-Catecolo_1.png,Catecolo,Train,shuffled,CNN input image (gafimages),26016,data/gafimages/shuffled/Train/Catecolo/0.1mMSPE-Catecolo_1.png
+0.1mMSPE-Catecolo_2.png,Catecolo,Train,shuffled,CNN input image (gafimages),26071,data/gafimages/shuffled/Train/Catecolo/0.1mMSPE-Catecolo_2.png
+0.5mMSPE-Catecolo_1.png,Catecolo,Train,shuffled,CNN input image (gafimages),29288,data/gafimages/shuffled/Train/Catecolo/0.5mMSPE-Catecolo_1.png
+0.5mMSPE-Catecolo_2.png,Catecolo,Train,shuffled,CNN input image (gafimages),29075,data/gafimages/shuffled/Train/Catecolo/0.5mMSPE-Catecolo_2.png
+0.5mMSPE-Catecolo_3.png,Catecolo,Train,shuffled,CNN input image (gafimages),29192,data/gafimages/shuffled/Train/Catecolo/0.5mMSPE-Catecolo_3.png
+1mMSPE-Catecolo_1.png,Catecolo,Train,shuffled,CNN input image (gafimages),29135,data/gafimages/shuffled/Train/Catecolo/1mMSPE-Catecolo_1.png
+1mMSPE-Catecolo_2.png,Catecolo,Train,shuffled,CNN input image (gafimages),29215,data/gafimages/shuffled/Train/Catecolo/1mMSPE-Catecolo_2.png
+1mMSPE-Catecolo_3.png,Catecolo,Train,shuffled,CNN input image (gafimages),29086,data/gafimages/shuffled/Train/Catecolo/1mMSPE-Catecolo_3.png
+2mMSPE-Catecolo_1.png,Catecolo,Train,shuffled,CNN input image (gafimages),28408,data/gafimages/shuffled/Train/Catecolo/2mMSPE-Catecolo_1.png
+2mMSPE-Catecolo_2.png,Catecolo,Train,shuffled,CNN input image (gafimages),28636,data/gafimages/shuffled/Train/Catecolo/2mMSPE-Catecolo_2.png
+2mMSPE-Catecolo_3.png,Catecolo,Train,shuffled,CNN input image (gafimages),28524,data/gafimages/shuffled/Train/Catecolo/2mMSPE-Catecolo_3.png
+0.01mMSPE-Ferro-Ferri_1.png,Ferro-Ferri,Train,shuffled,CNN input image (gafimages),22976,data/gafimages/shuffled/Train/Ferro-Ferri/0.01mMSPE-Ferro-Ferri_1.png
+0.01mMSPE-Ferro-Ferri_2.png,Ferro-Ferri,Train,shuffled,CNN input image (gafimages),23471,data/gafimages/shuffled/Train/Ferro-Ferri/0.01mMSPE-Ferro-Ferri_2.png
+0.01mMSPE-Ferro-Ferri_3.png,Ferro-Ferri,Train,shuffled,CNN input image (gafimages),22770,data/gafimages/shuffled/Train/Ferro-Ferri/0.01mMSPE-Ferro-Ferri_3.png
+0.1mMSPE-Ferro-Ferri_1.png,Ferro-Ferri,Train,shuffled,CNN input image (gafimages),27123,data/gafimages/shuffled/Train/Ferro-Ferri/0.1mMSPE-Ferro-Ferri_1.png
+0.1mMSPE-Ferro-Ferri_2.png,Ferro-Ferri,Train,shuffled,CNN input image (gafimages),27222,data/gafimages/shuffled/Train/Ferro-Ferri/0.1mMSPE-Ferro-Ferri_2.png
+0.1mMSPE-Ferro-Ferri_3.png,Ferro-Ferri,Train,shuffled,CNN input image (gafimages),27599,data/gafimages/shuffled/Train/Ferro-Ferri/0.1mMSPE-Ferro-Ferri_3.png
+0.5mMSPE-Ferro-Ferri_1.png,Ferro-Ferri,Train,shuffled,CNN input image (gafimages),27920,data/gafimages/shuffled/Train/Ferro-Ferri/0.5mMSPE-Ferro-Ferri_1.png
+0.5mMSPE-Ferro-Ferri_2.png,Ferro-Ferri,Train,shuffled,CNN input image (gafimages),27822,data/gafimages/shuffled/Train/Ferro-Ferri/0.5mMSPE-Ferro-Ferri_2.png
+0.5mMSPE-Ferro-Ferri_3.png,Ferro-Ferri,Train,shuffled,CNN input image (gafimages),28820,data/gafimages/shuffled/Train/Ferro-Ferri/0.5mMSPE-Ferro-Ferri_3.png
+1mMSPE-Ferro-Ferri_1.png,Ferro-Ferri,Train,shuffled,CNN input image (gafimages),28763,data/gafimages/shuffled/Train/Ferro-Ferri/1mMSPE-Ferro-Ferri_1.png
+1mMSPE-Ferro-Ferri_2.png,Ferro-Ferri,Train,shuffled,CNN input image (gafimages),28660,data/gafimages/shuffled/Train/Ferro-Ferri/1mMSPE-Ferro-Ferri_2.png
+1mMSPE-Ferro-Ferri_3.png,Ferro-Ferri,Train,shuffled,CNN input image (gafimages),28737,data/gafimages/shuffled/Train/Ferro-Ferri/1mMSPE-Ferro-Ferri_3.png
+2mMSPE-Ferro-Ferri_1.png,Ferro-Ferri,Train,shuffled,CNN input image (gafimages),27663,data/gafimages/shuffled/Train/Ferro-Ferri/2mMSPE-Ferro-Ferri_1.png
+2mMSPE-Ferro-Ferri_2.png,Ferro-Ferri,Train,shuffled,CNN input image (gafimages),27727,data/gafimages/shuffled/Train/Ferro-Ferri/2mMSPE-Ferro-Ferri_2.png
+HB11SPE-Idrochinone-Benzochinone_1.png,Idrochinone-Benzochinone,Train,shuffled,CNN input image (gafimages),27422,data/gafimages/shuffled/Train/Idrochinone-Benzochinone/HB11SPE-Idrochinone-Benzochinone_1.png
+HB11SPE-Idrochinone-Benzochinone_2.png,Idrochinone-Benzochinone,Train,shuffled,CNN input image (gafimages),27781,data/gafimages/shuffled/Train/Idrochinone-Benzochinone/HB11SPE-Idrochinone-Benzochinone_2.png
+HB11SPE-Idrochinone-Benzochinone_3.png,Idrochinone-Benzochinone,Train,shuffled,CNN input image (gafimages),27560,data/gafimages/shuffled/Train/Idrochinone-Benzochinone/HB11SPE-Idrochinone-Benzochinone_3.png
+HB12SPE-Idrochinone-Benzochinone_1.png,Idrochinone-Benzochinone,Train,shuffled,CNN input image (gafimages),27765,data/gafimages/shuffled/Train/Idrochinone-Benzochinone/HB12SPE-Idrochinone-Benzochinone_1.png
+HB12SPE-Idrochinone-Benzochinone_2.png,Idrochinone-Benzochinone,Train,shuffled,CNN input image (gafimages),28386,data/gafimages/shuffled/Train/Idrochinone-Benzochinone/HB12SPE-Idrochinone-Benzochinone_2.png
+HB12SPE-Idrochinone-Benzochinone_3.png,Idrochinone-Benzochinone,Train,shuffled,CNN input image (gafimages),27649,data/gafimages/shuffled/Train/Idrochinone-Benzochinone/HB12SPE-Idrochinone-Benzochinone_3.png
+HB13SPE-Idrochinone-Benzochinone_2.png,Idrochinone-Benzochinone,Train,shuffled,CNN input image (gafimages),26660,data/gafimages/shuffled/Train/Idrochinone-Benzochinone/HB13SPE-Idrochinone-Benzochinone_2.png
+HB13SPE-Idrochinone-Benzochinone_3.png,Idrochinone-Benzochinone,Train,shuffled,CNN input image (gafimages),25722,data/gafimages/shuffled/Train/Idrochinone-Benzochinone/HB13SPE-Idrochinone-Benzochinone_3.png
+HB21SPE-Idrochinone-Benzochinone_1.png,Idrochinone-Benzochinone,Train,shuffled,CNN input image (gafimages),26335,data/gafimages/shuffled/Train/Idrochinone-Benzochinone/HB21SPE-Idrochinone-Benzochinone_1.png
+HB21SPE-Idrochinone-Benzochinone_2.png,Idrochinone-Benzochinone,Train,shuffled,CNN input image (gafimages),26948,data/gafimages/shuffled/Train/Idrochinone-Benzochinone/HB21SPE-Idrochinone-Benzochinone_2.png
+HB31SPE-Idrochinone-Benzochinone_1.png,Idrochinone-Benzochinone,Train,shuffled,CNN input image (gafimages),26826,data/gafimages/shuffled/Train/Idrochinone-Benzochinone/HB31SPE-Idrochinone-Benzochinone_1.png
+HB31SPE-Idrochinone-Benzochinone_2.png,Idrochinone-Benzochinone,Train,shuffled,CNN input image (gafimages),25822,data/gafimages/shuffled/Train/Idrochinone-Benzochinone/HB31SPE-Idrochinone-Benzochinone_2.png
+HB31SPE-Idrochinone-Benzochinone_3.png,Idrochinone-Benzochinone,Train,shuffled,CNN input image (gafimages),26604,data/gafimages/shuffled/Train/Idrochinone-Benzochinone/HB31SPE-Idrochinone-Benzochinone_3.png
+0.01mMSPE-Idrochinone_1.png,Idrochinone,Train,shuffled,CNN input image (gafimages),24159,data/gafimages/shuffled/Train/Idrochinone/0.01mMSPE-Idrochinone_1.png
+0.01mMSPE-Idrochinone_2.png,Idrochinone,Train,shuffled,CNN input image (gafimages),25765,data/gafimages/shuffled/Train/Idrochinone/0.01mMSPE-Idrochinone_2.png
+0.01mMSPE-Idrochinone_3.png,Idrochinone,Train,shuffled,CNN input image (gafimages),25471,data/gafimages/shuffled/Train/Idrochinone/0.01mMSPE-Idrochinone_3.png
+0.1mMSPE-Idrochinone_1.png,Idrochinone,Train,shuffled,CNN input image (gafimages),24706,data/gafimages/shuffled/Train/Idrochinone/0.1mMSPE-Idrochinone_1.png
+0.1mMSPE-Idrochinone_2.png,Idrochinone,Train,shuffled,CNN input image (gafimages),26699,data/gafimages/shuffled/Train/Idrochinone/0.1mMSPE-Idrochinone_2.png
+0.1mMSPE-Idrochinone_3.png,Idrochinone,Train,shuffled,CNN input image (gafimages),25646,data/gafimages/shuffled/Train/Idrochinone/0.1mMSPE-Idrochinone_3.png
+0.5mMSPE-Idrochinone_1.png,Idrochinone,Train,shuffled,CNN input image (gafimages),29179,data/gafimages/shuffled/Train/Idrochinone/0.5mMSPE-Idrochinone_1.png
+0.5mMSPE-Idrochinone_2.png,Idrochinone,Train,shuffled,CNN input image (gafimages),29111,data/gafimages/shuffled/Train/Idrochinone/0.5mMSPE-Idrochinone_2.png
+0.5mMSPE-Idrochinone_3.png,Idrochinone,Train,shuffled,CNN input image (gafimages),29156,data/gafimages/shuffled/Train/Idrochinone/0.5mMSPE-Idrochinone_3.png
+1mMSPE-Idrochinone_1.png,Idrochinone,Train,shuffled,CNN input image (gafimages),29168,data/gafimages/shuffled/Train/Idrochinone/1mMSPE-Idrochinone_1.png
+1mMSPE-Idrochinone_2.png,Idrochinone,Train,shuffled,CNN input image (gafimages),29117,data/gafimages/shuffled/Train/Idrochinone/1mMSPE-Idrochinone_2.png
+1mMSPE-Idrochinone_3.png,Idrochinone,Train,shuffled,CNN input image (gafimages),29160,data/gafimages/shuffled/Train/Idrochinone/1mMSPE-Idrochinone_3.png
+2mMSPE-Idrochinone_1.png,Idrochinone,Train,shuffled,CNN input image (gafimages),28272,data/gafimages/shuffled/Train/Idrochinone/2mMSPE-Idrochinone_1.png
+2mMSPE-Idrochinone_2.png,Idrochinone,Train,shuffled,CNN input image (gafimages),28588,data/gafimages/shuffled/Train/Idrochinone/2mMSPE-Idrochinone_2.png
+2mMSPE-Idrochinone_3.png,Idrochinone,Train,shuffled,CNN input image (gafimages),28565,data/gafimages/shuffled/Train/Idrochinone/2mMSPE-Idrochinone_3.png
+0.01mMSPE-Benzochinone_2.png,Benzochinone,Val,shuffled,CNN input image (gafimages),26274,data/gafimages/shuffled/Val/Benzochinone/0.01mMSPE-Benzochinone_2.png
+0.1mMSPE-Benzochinone_3.png,Benzochinone,Val,shuffled,CNN input image (gafimages),22312,data/gafimages/shuffled/Val/Benzochinone/0.1mMSPE-Benzochinone_3.png
+0.5mMSPE-Benzochinone_1.png,Benzochinone,Val,shuffled,CNN input image (gafimages),23376,data/gafimages/shuffled/Val/Benzochinone/0.5mMSPE-Benzochinone_1.png
+0.01mMSPE-Catecolo_2.png,Catecolo,Val,shuffled,CNN input image (gafimages),23755,data/gafimages/shuffled/Val/Catecolo/0.01mMSPE-Catecolo_2.png
+0.1mMSPE-Catecolo_3.png,Catecolo,Val,shuffled,CNN input image (gafimages),23525,data/gafimages/shuffled/Val/Catecolo/0.1mMSPE-Catecolo_3.png
+0.5mMSPE-Catecolo_2.png,Catecolo,Val,shuffled,CNN input image (gafimages),29075,data/gafimages/shuffled/Val/Catecolo/0.5mMSPE-Catecolo_2.png
+1mMSPE-Catecolo_1.png,Catecolo,Val,shuffled,CNN input image (gafimages),29135,data/gafimages/shuffled/Val/Catecolo/1mMSPE-Catecolo_1.png
+2mMSPE-Catecolo_1.png,Catecolo,Val,shuffled,CNN input image (gafimages),28408,data/gafimages/shuffled/Val/Catecolo/2mMSPE-Catecolo_1.png
+2mMSPE-Catecolo_3.png,Catecolo,Val,shuffled,CNN input image (gafimages),28524,data/gafimages/shuffled/Val/Catecolo/2mMSPE-Catecolo_3.png
+0.1mMSPE-Ferro-Ferri_1.png,Ferro-Ferri,Val,shuffled,CNN input image (gafimages),27123,data/gafimages/shuffled/Val/Ferro-Ferri/0.1mMSPE-Ferro-Ferri_1.png
+0.5mMSPE-Ferro-Ferri_2.png,Ferro-Ferri,Val,shuffled,CNN input image (gafimages),27822,data/gafimages/shuffled/Val/Ferro-Ferri/0.5mMSPE-Ferro-Ferri_2.png
+1mMSPE-Ferro-Ferri_2.png,Ferro-Ferri,Val,shuffled,CNN input image (gafimages),28660,data/gafimages/shuffled/Val/Ferro-Ferri/1mMSPE-Ferro-Ferri_2.png
+2mMSPE-Ferro-Ferri_2.png,Ferro-Ferri,Val,shuffled,CNN input image (gafimages),27727,data/gafimages/shuffled/Val/Ferro-Ferri/2mMSPE-Ferro-Ferri_2.png
+2mMSPE-Ferro-Ferri_3.png,Ferro-Ferri,Val,shuffled,CNN input image (gafimages),28011,data/gafimages/shuffled/Val/Ferro-Ferri/2mMSPE-Ferro-Ferri_3.png
+HB11SPE-Idrochinone-Benzochinone_1.png,Idrochinone-Benzochinone,Val,shuffled,CNN input image (gafimages),27422,data/gafimages/shuffled/Val/Idrochinone-Benzochinone/HB11SPE-Idrochinone-Benzochinone_1.png
+HB12SPE-Idrochinone-Benzochinone_1.png,Idrochinone-Benzochinone,Val,shuffled,CNN input image (gafimages),27765,data/gafimages/shuffled/Val/Idrochinone-Benzochinone/HB12SPE-Idrochinone-Benzochinone_1.png
+HB13SPE-Idrochinone-Benzochinone_1.png,Idrochinone-Benzochinone,Val,shuffled,CNN input image (gafimages),26608,data/gafimages/shuffled/Val/Idrochinone-Benzochinone/HB13SPE-Idrochinone-Benzochinone_1.png
+HB21SPE-Idrochinone-Benzochinone_3.png,Idrochinone-Benzochinone,Val,shuffled,CNN input image (gafimages),25796,data/gafimages/shuffled/Val/Idrochinone-Benzochinone/HB21SPE-Idrochinone-Benzochinone_3.png
+HB31SPE-Idrochinone-Benzochinone_3.png,Idrochinone-Benzochinone,Val,shuffled,CNN input image (gafimages),26604,data/gafimages/shuffled/Val/Idrochinone-Benzochinone/HB31SPE-Idrochinone-Benzochinone_3.png
+0.5mMSPE-Idrochinone_1.png,Idrochinone,Val,shuffled,CNN input image (gafimages),29179,data/gafimages/shuffled/Val/Idrochinone/0.5mMSPE-Idrochinone_1.png
+0.01mMSPE-Benzochinone_1.png,Benzochinone,-,voltammetry/GAFData,raw GAF generator output (voltammetry),25771,data/voltammetry/Benzochinone/GAFData/SPE/0.01mMSPE-Benzochinone_1.png
+0.01mMSPE-Benzochinone_2.png,Benzochinone,-,voltammetry/GAFData,raw GAF generator output (voltammetry),26274,data/voltammetry/Benzochinone/GAFData/SPE/0.01mMSPE-Benzochinone_2.png
+0.01mMSPE-Benzochinone_3.png,Benzochinone,-,voltammetry/GAFData,raw GAF generator output (voltammetry),25820,data/voltammetry/Benzochinone/GAFData/SPE/0.01mMSPE-Benzochinone_3.png
+0.1mMSPE-Benzochinone_1.png,Benzochinone,-,voltammetry/GAFData,raw GAF generator output (voltammetry),23428,data/voltammetry/Benzochinone/GAFData/SPE/0.1mMSPE-Benzochinone_1.png
+0.1mMSPE-Benzochinone_2.png,Benzochinone,-,voltammetry/GAFData,raw GAF generator output (voltammetry),22750,data/voltammetry/Benzochinone/GAFData/SPE/0.1mMSPE-Benzochinone_2.png
+0.1mMSPE-Benzochinone_3.png,Benzochinone,-,voltammetry/GAFData,raw GAF generator output (voltammetry),22312,data/voltammetry/Benzochinone/GAFData/SPE/0.1mMSPE-Benzochinone_3.png
+0.5mMSPE-Benzochinone_1.png,Benzochinone,-,voltammetry/GAFData,raw GAF generator output (voltammetry),23376,data/voltammetry/Benzochinone/GAFData/SPE/0.5mMSPE-Benzochinone_1.png
+0.5mMSPE-Benzochinone_2.png,Benzochinone,-,voltammetry/GAFData,raw GAF generator output (voltammetry),21863,data/voltammetry/Benzochinone/GAFData/SPE/0.5mMSPE-Benzochinone_2.png
+0.5mMSPE-Benzochinone_3.png,Benzochinone,-,voltammetry/GAFData,raw GAF generator output (voltammetry),25645,data/voltammetry/Benzochinone/GAFData/SPE/0.5mMSPE-Benzochinone_3.png
+1mMSPE-Benzochinone_1.png,Benzochinone,-,voltammetry/GAFData,raw GAF generator output (voltammetry),28047,data/voltammetry/Benzochinone/GAFData/SPE/1mMSPE-Benzochinone_1.png
+1mMSPE-Benzochinone_2.png,Benzochinone,-,voltammetry/GAFData,raw GAF generator output (voltammetry),26893,data/voltammetry/Benzochinone/GAFData/SPE/1mMSPE-Benzochinone_2.png
+1mMSPE-Benzochinone_3.png,Benzochinone,-,voltammetry/GAFData,raw GAF generator output (voltammetry),27106,data/voltammetry/Benzochinone/GAFData/SPE/1mMSPE-Benzochinone_3.png
+2mMSPE-Benzochinone_1.png,Benzochinone,-,voltammetry/GAFData,raw GAF generator output (voltammetry),28497,data/voltammetry/Benzochinone/GAFData/SPE/2mMSPE-Benzochinone_1.png
+2mMSPE-Benzochinone_2.png,Benzochinone,-,voltammetry/GAFData,raw GAF generator output (voltammetry),28516,data/voltammetry/Benzochinone/GAFData/SPE/2mMSPE-Benzochinone_2.png
+2mMSPE-Benzochinone_3.png,Benzochinone,-,voltammetry/GAFData,raw GAF generator output (voltammetry),28566,data/voltammetry/Benzochinone/GAFData/SPE/2mMSPE-Benzochinone_3.png
+0.01mMSPE-Catecolo_1.png,Catecolo,-,voltammetry/GAFData,raw GAF generator output (voltammetry),23857,data/voltammetry/Catecolo/GAFData/SPE/0.01mMSPE-Catecolo_1.png
+0.01mMSPE-Catecolo_2.png,Catecolo,-,voltammetry/GAFData,raw GAF generator output (voltammetry),23755,data/voltammetry/Catecolo/GAFData/SPE/0.01mMSPE-Catecolo_2.png
+0.01mMSPE-Catecolo_3.png,Catecolo,-,voltammetry/GAFData,raw GAF generator output (voltammetry),23062,data/voltammetry/Catecolo/GAFData/SPE/0.01mMSPE-Catecolo_3.png
+0.1mMSPE-Catecolo_1.png,Catecolo,-,voltammetry/GAFData,raw GAF generator output (voltammetry),26016,data/voltammetry/Catecolo/GAFData/SPE/0.1mMSPE-Catecolo_1.png
+0.1mMSPE-Catecolo_2.png,Catecolo,-,voltammetry/GAFData,raw GAF generator output (voltammetry),26071,data/voltammetry/Catecolo/GAFData/SPE/0.1mMSPE-Catecolo_2.png
+0.1mMSPE-Catecolo_3.png,Catecolo,-,voltammetry/GAFData,raw GAF generator output (voltammetry),23525,data/voltammetry/Catecolo/GAFData/SPE/0.1mMSPE-Catecolo_3.png
+0.5mMSPE-Catecolo_1.png,Catecolo,-,voltammetry/GAFData,raw GAF generator output (voltammetry),29288,data/voltammetry/Catecolo/GAFData/SPE/0.5mMSPE-Catecolo_1.png
+0.5mMSPE-Catecolo_2.png,Catecolo,-,voltammetry/GAFData,raw GAF generator output (voltammetry),29075,data/voltammetry/Catecolo/GAFData/SPE/0.5mMSPE-Catecolo_2.png
+0.5mMSPE-Catecolo_3.png,Catecolo,-,voltammetry/GAFData,raw GAF generator output (voltammetry),29192,data/voltammetry/Catecolo/GAFData/SPE/0.5mMSPE-Catecolo_3.png
+1mMSPE-Catecolo_1.png,Catecolo,-,voltammetry/GAFData,raw GAF generator output (voltammetry),29135,data/voltammetry/Catecolo/GAFData/SPE/1mMSPE-Catecolo_1.png
+1mMSPE-Catecolo_2.png,Catecolo,-,voltammetry/GAFData,raw GAF generator output (voltammetry),29215,data/voltammetry/Catecolo/GAFData/SPE/1mMSPE-Catecolo_2.png
+1mMSPE-Catecolo_3.png,Catecolo,-,voltammetry/GAFData,raw GAF generator output (voltammetry),29086,data/voltammetry/Catecolo/GAFData/SPE/1mMSPE-Catecolo_3.png
+2mMSPE-Catecolo_1.png,Catecolo,-,voltammetry/GAFData,raw GAF generator output (voltammetry),28408,data/voltammetry/Catecolo/GAFData/SPE/2mMSPE-Catecolo_1.png
+2mMSPE-Catecolo_2.png,Catecolo,-,voltammetry/GAFData,raw GAF generator output (voltammetry),28636,data/voltammetry/Catecolo/GAFData/SPE/2mMSPE-Catecolo_2.png
+2mMSPE-Catecolo_3.png,Catecolo,-,voltammetry/GAFData,raw GAF generator output (voltammetry),28524,data/voltammetry/Catecolo/GAFData/SPE/2mMSPE-Catecolo_3.png
+0.01mMSPE-Ferro-Ferri_1.png,Ferro-Ferri,-,voltammetry/GAFData,raw GAF generator output (voltammetry),22976,data/voltammetry/Ferro-Ferri/GAFData/SPE/0.01mMSPE-Ferro-Ferri_1.png
+0.01mMSPE-Ferro-Ferri_2.png,Ferro-Ferri,-,voltammetry/GAFData,raw GAF generator output (voltammetry),23471,data/voltammetry/Ferro-Ferri/GAFData/SPE/0.01mMSPE-Ferro-Ferri_2.png
+0.01mMSPE-Ferro-Ferri_3.png,Ferro-Ferri,-,voltammetry/GAFData,raw GAF generator output (voltammetry),22770,data/voltammetry/Ferro-Ferri/GAFData/SPE/0.01mMSPE-Ferro-Ferri_3.png
+0.1mMSPE-Ferro-Ferri_1.png,Ferro-Ferri,-,voltammetry/GAFData,raw GAF generator output (voltammetry),27123,data/voltammetry/Ferro-Ferri/GAFData/SPE/0.1mMSPE-Ferro-Ferri_1.png
+0.1mMSPE-Ferro-Ferri_2.png,Ferro-Ferri,-,voltammetry/GAFData,raw GAF generator output (voltammetry),27222,data/voltammetry/Ferro-Ferri/GAFData/SPE/0.1mMSPE-Ferro-Ferri_2.png
+0.1mMSPE-Ferro-Ferri_3.png,Ferro-Ferri,-,voltammetry/GAFData,raw GAF generator output (voltammetry),27599,data/voltammetry/Ferro-Ferri/GAFData/SPE/0.1mMSPE-Ferro-Ferri_3.png
+0.5mMSPE-Ferro-Ferri_1.png,Ferro-Ferri,-,voltammetry/GAFData,raw GAF generator output (voltammetry),27920,data/voltammetry/Ferro-Ferri/GAFData/SPE/0.5mMSPE-Ferro-Ferri_1.png
+0.5mMSPE-Ferro-Ferri_2.png,Ferro-Ferri,-,voltammetry/GAFData,raw GAF generator output (voltammetry),27822,data/voltammetry/Ferro-Ferri/GAFData/SPE/0.5mMSPE-Ferro-Ferri_2.png
+0.5mMSPE-Ferro-Ferri_3.png,Ferro-Ferri,-,voltammetry/GAFData,raw GAF generator output (voltammetry),28820,data/voltammetry/Ferro-Ferri/GAFData/SPE/0.5mMSPE-Ferro-Ferri_3.png
+1mMSPE-Ferro-Ferri_1.png,Ferro-Ferri,-,voltammetry/GAFData,raw GAF generator output (voltammetry),28763,data/voltammetry/Ferro-Ferri/GAFData/SPE/1mMSPE-Ferro-Ferri_1.png
+1mMSPE-Ferro-Ferri_2.png,Ferro-Ferri,-,voltammetry/GAFData,raw GAF generator output (voltammetry),28660,data/voltammetry/Ferro-Ferri/GAFData/SPE/1mMSPE-Ferro-Ferri_2.png
+1mMSPE-Ferro-Ferri_3.png,Ferro-Ferri,-,voltammetry/GAFData,raw GAF generator output (voltammetry),28737,data/voltammetry/Ferro-Ferri/GAFData/SPE/1mMSPE-Ferro-Ferri_3.png
+2mMSPE-Ferro-Ferri_1.png,Ferro-Ferri,-,voltammetry/GAFData,raw GAF generator output (voltammetry),27663,data/voltammetry/Ferro-Ferri/GAFData/SPE/2mMSPE-Ferro-Ferri_1.png
+2mMSPE-Ferro-Ferri_2.png,Ferro-Ferri,-,voltammetry/GAFData,raw GAF generator output (voltammetry),27727,data/voltammetry/Ferro-Ferri/GAFData/SPE/2mMSPE-Ferro-Ferri_2.png
+2mMSPE-Ferro-Ferri_3.png,Ferro-Ferri,-,voltammetry/GAFData,raw GAF generator output (voltammetry),28011,data/voltammetry/Ferro-Ferri/GAFData/SPE/2mMSPE-Ferro-Ferri_3.png
+HB11SPE-Idrochinone-Benzochinone_1.png,Idrochinone-Benzochinone,-,voltammetry/GAFData,raw GAF generator output (voltammetry),27422,data/voltammetry/Idrochinone-Benzochinone/GAFData/SPE/HB11SPE-Idrochinone-Benzochinone_1.png
+HB11SPE-Idrochinone-Benzochinone_2.png,Idrochinone-Benzochinone,-,voltammetry/GAFData,raw GAF generator output (voltammetry),27781,data/voltammetry/Idrochinone-Benzochinone/GAFData/SPE/HB11SPE-Idrochinone-Benzochinone_2.png
+HB11SPE-Idrochinone-Benzochinone_3.png,Idrochinone-Benzochinone,-,voltammetry/GAFData,raw GAF generator output (voltammetry),27560,data/voltammetry/Idrochinone-Benzochinone/GAFData/SPE/HB11SPE-Idrochinone-Benzochinone_3.png
+HB12SPE-Idrochinone-Benzochinone_1.png,Idrochinone-Benzochinone,-,voltammetry/GAFData,raw GAF generator output (voltammetry),27765,data/voltammetry/Idrochinone-Benzochinone/GAFData/SPE/HB12SPE-Idrochinone-Benzochinone_1.png
+HB12SPE-Idrochinone-Benzochinone_2.png,Idrochinone-Benzochinone,-,voltammetry/GAFData,raw GAF generator output (voltammetry),28386,data/voltammetry/Idrochinone-Benzochinone/GAFData/SPE/HB12SPE-Idrochinone-Benzochinone_2.png
+HB12SPE-Idrochinone-Benzochinone_3.png,Idrochinone-Benzochinone,-,voltammetry/GAFData,raw GAF generator output (voltammetry),27649,data/voltammetry/Idrochinone-Benzochinone/GAFData/SPE/HB12SPE-Idrochinone-Benzochinone_3.png
+HB13SPE-Idrochinone-Benzochinone_1.png,Idrochinone-Benzochinone,-,voltammetry/GAFData,raw GAF generator output (voltammetry),26608,data/voltammetry/Idrochinone-Benzochinone/GAFData/SPE/HB13SPE-Idrochinone-Benzochinone_1.png
+HB13SPE-Idrochinone-Benzochinone_2.png,Idrochinone-Benzochinone,-,voltammetry/GAFData,raw GAF generator output (voltammetry),26660,data/voltammetry/Idrochinone-Benzochinone/GAFData/SPE/HB13SPE-Idrochinone-Benzochinone_2.png
+HB13SPE-Idrochinone-Benzochinone_3.png,Idrochinone-Benzochinone,-,voltammetry/GAFData,raw GAF generator output (voltammetry),25722,data/voltammetry/Idrochinone-Benzochinone/GAFData/SPE/HB13SPE-Idrochinone-Benzochinone_3.png
+HB21SPE-Idrochinone-Benzochinone_1.png,Idrochinone-Benzochinone,-,voltammetry/GAFData,raw GAF generator output (voltammetry),26335,data/voltammetry/Idrochinone-Benzochinone/GAFData/SPE/HB21SPE-Idrochinone-Benzochinone_1.png
+HB21SPE-Idrochinone-Benzochinone_2.png,Idrochinone-Benzochinone,-,voltammetry/GAFData,raw GAF generator output (voltammetry),26948,data/voltammetry/Idrochinone-Benzochinone/GAFData/SPE/HB21SPE-Idrochinone-Benzochinone_2.png
+HB21SPE-Idrochinone-Benzochinone_3.png,Idrochinone-Benzochinone,-,voltammetry/GAFData,raw GAF generator output (voltammetry),25796,data/voltammetry/Idrochinone-Benzochinone/GAFData/SPE/HB21SPE-Idrochinone-Benzochinone_3.png
+HB31SPE-Idrochinone-Benzochinone_1.png,Idrochinone-Benzochinone,-,voltammetry/GAFData,raw GAF generator output (voltammetry),26826,data/voltammetry/Idrochinone-Benzochinone/GAFData/SPE/HB31SPE-Idrochinone-Benzochinone_1.png
+HB31SPE-Idrochinone-Benzochinone_2.png,Idrochinone-Benzochinone,-,voltammetry/GAFData,raw GAF generator output (voltammetry),25822,data/voltammetry/Idrochinone-Benzochinone/GAFData/SPE/HB31SPE-Idrochinone-Benzochinone_2.png
+HB31SPE-Idrochinone-Benzochinone_3.png,Idrochinone-Benzochinone,-,voltammetry/GAFData,raw GAF generator output (voltammetry),26604,data/voltammetry/Idrochinone-Benzochinone/GAFData/SPE/HB31SPE-Idrochinone-Benzochinone_3.png
+0.01mMSPE-Idrochinone_1.png,Idrochinone,-,voltammetry/GAFData,raw GAF generator output (voltammetry),24159,data/voltammetry/Idrochinone/GAFData/SPE/0.01mMSPE-Idrochinone_1.png
+0.01mMSPE-Idrochinone_2.png,Idrochinone,-,voltammetry/GAFData,raw GAF generator output (voltammetry),25765,data/voltammetry/Idrochinone/GAFData/SPE/0.01mMSPE-Idrochinone_2.png
+0.01mMSPE-Idrochinone_3.png,Idrochinone,-,voltammetry/GAFData,raw GAF generator output (voltammetry),25471,data/voltammetry/Idrochinone/GAFData/SPE/0.01mMSPE-Idrochinone_3.png
+0.1mMSPE-Idrochinone_1.png,Idrochinone,-,voltammetry/GAFData,raw GAF generator output (voltammetry),24706,data/voltammetry/Idrochinone/GAFData/SPE/0.1mMSPE-Idrochinone_1.png
+0.1mMSPE-Idrochinone_2.png,Idrochinone,-,voltammetry/GAFData,raw GAF generator output (voltammetry),26699,data/voltammetry/Idrochinone/GAFData/SPE/0.1mMSPE-Idrochinone_2.png
+0.1mMSPE-Idrochinone_3.png,Idrochinone,-,voltammetry/GAFData,raw GAF generator output (voltammetry),25646,data/voltammetry/Idrochinone/GAFData/SPE/0.1mMSPE-Idrochinone_3.png
+0.5mMSPE-Idrochinone_1.png,Idrochinone,-,voltammetry/GAFData,raw GAF generator output (voltammetry),29179,data/voltammetry/Idrochinone/GAFData/SPE/0.5mMSPE-Idrochinone_1.png
+0.5mMSPE-Idrochinone_2.png,Idrochinone,-,voltammetry/GAFData,raw GAF generator output (voltammetry),29111,data/voltammetry/Idrochinone/GAFData/SPE/0.5mMSPE-Idrochinone_2.png
+0.5mMSPE-Idrochinone_3.png,Idrochinone,-,voltammetry/GAFData,raw GAF generator output (voltammetry),29156,data/voltammetry/Idrochinone/GAFData/SPE/0.5mMSPE-Idrochinone_3.png
+1mMSPE-Idrochinone_1.png,Idrochinone,-,voltammetry/GAFData,raw GAF generator output (voltammetry),29168,data/voltammetry/Idrochinone/GAFData/SPE/1mMSPE-Idrochinone_1.png
+1mMSPE-Idrochinone_2.png,Idrochinone,-,voltammetry/GAFData,raw GAF generator output (voltammetry),29117,data/voltammetry/Idrochinone/GAFData/SPE/1mMSPE-Idrochinone_2.png
+1mMSPE-Idrochinone_3.png,Idrochinone,-,voltammetry/GAFData,raw GAF generator output (voltammetry),29160,data/voltammetry/Idrochinone/GAFData/SPE/1mMSPE-Idrochinone_3.png
+2mMSPE-Idrochinone_1.png,Idrochinone,-,voltammetry/GAFData,raw GAF generator output (voltammetry),28272,data/voltammetry/Idrochinone/GAFData/SPE/2mMSPE-Idrochinone_1.png
+2mMSPE-Idrochinone_2.png,Idrochinone,-,voltammetry/GAFData,raw GAF generator output (voltammetry),28588,data/voltammetry/Idrochinone/GAFData/SPE/2mMSPE-Idrochinone_2.png
+2mMSPE-Idrochinone_3.png,Idrochinone,-,voltammetry/GAFData,raw GAF generator output (voltammetry),28565,data/voltammetry/Idrochinone/GAFData/SPE/2mMSPE-Idrochinone_3.png

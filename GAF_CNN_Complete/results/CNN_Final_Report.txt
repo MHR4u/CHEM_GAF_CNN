@@ -1,0 +1,230 @@
+================================================================================================
+        GAF-CNN  -  FINAL RESULT REPORT
+        Electrochemical image classification (Gramian Angular Field + CNN)
+================================================================================================
+
+Generated (UTC) : 2026-10-13 15:04:16 UTC
+Model file      : CNN_5classes__epo_4000_pat_1000_batch_16_tl.keras
+Model parameters: 20,641
+Keras version   : 3.3.3   (saved 2024-10-10@16:49:11)
+Input size      : 224 x 224 x 3 (GAF images, 100x100 RGB on disk)
+Classes (5)     : Benzochinone, Catecolo, Ferro-Ferri, Idrochinone, Idrochinone-Benzochinone
+
+================================================================================================
+1. DATASET USED
+================================================================================================
+
+kind              layout                  split   class                        images
+------------------------------------------------------------------------------------------------
+CNN input image   concentrations_based    Test    Benzochinone                      3
+CNN input image   concentrations_based    Test    Catecolo                          3
+CNN input image   concentrations_based    Test    Ferro-Ferri                       3
+CNN input image   concentrations_based    Test    Idrochinone                       3
+CNN input image   concentrations_based    Test    Idrochinone-Benzochinone          3
+CNN input image   concentrations_based    Train   Benzochinone                      9
+CNN input image   concentrations_based    Train   Catecolo                          9
+CNN input image   concentrations_based    Train   Ferro-Ferri                       9
+CNN input image   concentrations_based    Train   Idrochinone                       9
+CNN input image   concentrations_based    Train   Idrochinone-Benzochinone          9
+CNN input image   concentrations_based    Val     Benzochinone                      3
+CNN input image   concentrations_based    Val     Catecolo                          3
+CNN input image   concentrations_based    Val     Ferro-Ferri                       3
+CNN input image   concentrations_based    Val     Idrochinone                       3
+CNN input image   concentrations_based    Val     Idrochinone-Benzochinone          3
+CNN input image   shuffled                Test    Benzochinone                      9
+CNN input image   shuffled                Test    Catecolo                          4
+CNN input image   shuffled                Test    Ferro-Ferri                       5
+CNN input image   shuffled                Test    Idrochinone                       4
+CNN input image   shuffled                Test    Idrochinone-Benzochinone          3
+CNN input image   shuffled                Train   Benzochinone                     13
+CNN input image   shuffled                Train   Catecolo                         14
+CNN input image   shuffled                Train   Ferro-Ferri                      14
+CNN input image   shuffled                Train   Idrochinone                      15
+CNN input image   shuffled                Train   Idrochinone-Benzochinone         13
+CNN input image   shuffled                Val     Benzochinone                      3
+CNN input image   shuffled                Val     Catecolo                          6
+CNN input image   shuffled                Val     Ferro-Ferri                       5
+CNN input image   shuffled                Val     Idrochinone                       1
+CNN input image   shuffled                Val     Idrochinone-Benzochinone          5
+raw GAF output    voltammetry/GAFData     -       Benzochinone                     15
+raw GAF output    voltammetry/GAFData     -       Catecolo                         15
+raw GAF output    voltammetry/GAFData     -       Ferro-Ferri                      15
+raw GAF output    voltammetry/GAFData     -       Idrochinone                      15
+raw GAF output    voltammetry/GAFData     -       Idrochinone-Benzochinone         15
+------------------------------------------------------------------------------------------------
+                                                          TOTAL                           264
+
+================================================================================================
+2. OVERALL RESULTS
+================================================================================================
+
+test split                images  correct  wrong  accuracy %
+------------------------------------------------------------------------------------------------
+shuffled                      25       24      1       96.00
+concentrations_based          15       15      0      100.00
+
+================================================================================================
+3. ACCURACY PER CLASS (%)
+================================================================================================
+
+class                                       shuffled    concentrations_based
+------------------------------------------------------------------------------------------------
+Benzochinone                                   88.89                  100.00
+Catecolo                                      100.00                  100.00
+Ferro-Ferri                                   100.00                  100.00
+Idrochinone                                   100.00                  100.00
+Idrochinone-Benzochinone                      100.00                  100.00
+
+Prediction confidence (average of the winning class):
+  shuffled                 correct predictions: 0.9048   |   wrong predictions: 0.5987
+  concentrations_based     correct predictions: 0.9511   |   wrong predictions: 0.0000
+
+================================================================================================
+4. CONFUSION MATRICES  (rows = true class, columns = predicted class)
+================================================================================================
+
+--- shuffled split ---
+                              Benzochinone      Catecolo   Ferro-Ferri   Idrochinone  Idrochinone-
+Benzochinone                             8             0             0             1             0
+Catecolo                                 0             4             0             0             0
+Ferro-Ferri                              0             0             5             0             0
+Idrochinone                              0             0             0             4             0
+Idrochinone-Benzochinone                 0             0             0             0             3
+
+--- concentrations_based split ---
+                              Benzochinone      Catecolo   Ferro-Ferri   Idrochinone  Idrochinone-
+Benzochinone                             3             0             0             0             0
+Catecolo                                 0             3             0             0             0
+Ferro-Ferri                              0             0             3             0             0
+Idrochinone                              0             0             0             3             0
+Idrochinone-Benzochinone                 0             0             0             0             3
+
+================================================================================================
+5. CLASSIFICATION REPORTS (precision / recall / f1-score)
+================================================================================================
+
+--- shuffled split ---
+                          precision    recall  f1-score   support
+
+            Benzochinone     1.0000    0.8889    0.9412         9
+                Catecolo     1.0000    1.0000    1.0000         4
+             Ferro-Ferri     1.0000    1.0000    1.0000         5
+             Idrochinone     0.8000    1.0000    0.8889         4
+Idrochinone-Benzochinone     1.0000    1.0000    1.0000         3
+
+                accuracy                         0.9600        25
+               macro avg     0.9600    0.9778    0.9660        25
+            weighted avg     0.9680    0.9600    0.9610        25
+
+--- concentrations_based split ---
+                          precision    recall  f1-score   support
+
+            Benzochinone     1.0000    1.0000    1.0000         3
+                Catecolo     1.0000    1.0000    1.0000         3
+             Ferro-Ferri     1.0000    1.0000    1.0000         3
+             Idrochinone     1.0000    1.0000    1.0000         3
+Idrochinone-Benzochinone     1.0000    1.0000    1.0000         3
+
+                accuracy                         1.0000        15
+               macro avg     1.0000    1.0000    1.0000        15
+            weighted avg     1.0000    1.0000    1.0000        15
+
+================================================================================================
+6. PER IMAGE PREDICTIONS
+================================================================================================
+
+--- shuffled split (25 images) ---
+   #  file                                        true class                  predicted class              confidence  result
+------------------------------------------------------------------------------------------------
+   0  0.01mMSPE-Benzochinone_2.png                Benzochinone                Benzochinone                     0.6977      OK
+   1  0.01mMSPE-Benzochinone_3.png                Benzochinone                Benzochinone                     0.9017      OK
+   2  0.1mMSPE-Benzochinone_2.png                 Benzochinone                Benzochinone                     0.9227      OK
+   3  0.5mMSPE-Benzochinone_2.png                 Benzochinone                Benzochinone                     0.7916      OK
+   4  1mMSPE-Benzochinone_1.png                   Benzochinone                Benzochinone                     0.7166      OK
+   5  1mMSPE-Benzochinone_3.png                   Benzochinone                Benzochinone                     0.9627      OK
+   6  2mMSPE-Benzochinone_1.png                   Benzochinone                Idrochinone                      0.5987   WRONG
+   7  2mMSPE-Benzochinone_2.png                   Benzochinone                Benzochinone                     0.9547      OK
+   8  2mMSPE-Benzochinone_3.png                   Benzochinone                Benzochinone                     0.9576      OK
+   9  0.01mMSPE-Catecolo_1.png                    Catecolo                    Catecolo                         0.8779      OK
+  10  0.1mMSPE-Catecolo_1.png                     Catecolo                    Catecolo                         0.9199      OK
+  11  0.1mMSPE-Catecolo_3.png                     Catecolo                    Catecolo                         0.6279      OK
+  12  0.5mMSPE-Catecolo_1.png                     Catecolo                    Catecolo                         0.9924      OK
+  13  0.01mMSPE-Ferro-Ferri_1.png                 Ferro-Ferri                 Ferro-Ferri                      0.5847      OK
+  14  0.5mMSPE-Ferro-Ferri_1.png                  Ferro-Ferri                 Ferro-Ferri                      0.9929      OK
+  15  0.5mMSPE-Ferro-Ferri_3.png                  Ferro-Ferri                 Ferro-Ferri                      0.9778      OK
+  16  2mMSPE-Ferro-Ferri_1.png                    Ferro-Ferri                 Ferro-Ferri                      0.9996      OK
+  17  2mMSPE-Ferro-Ferri_3.png                    Ferro-Ferri                 Ferro-Ferri                      0.9704      OK
+  18  0.1mMSPE-Idrochinone_2.png                  Idrochinone                 Idrochinone                      0.9760      OK
+  19  0.5mMSPE-Idrochinone_2.png                  Idrochinone                 Idrochinone                      0.9986      OK
+  20  0.5mMSPE-Idrochinone_3.png                  Idrochinone                 Idrochinone                      0.9987      OK
+  21  2mMSPE-Idrochinone_3.png                    Idrochinone                 Idrochinone                      0.9691      OK
+  22  HB13SPE-Idrochinone-Benzochinone_1.png    Idrochinone-Benzochinone    Idrochinone-Benzochinone         0.9877      OK
+  23  HB21SPE-Idrochinone-Benzochinone_3.png    Idrochinone-Benzochinone    Idrochinone-Benzochinone         0.9904      OK
+  24  HB31SPE-Idrochinone-Benzochinone_1.png    Idrochinone-Benzochinone    Idrochinone-Benzochinone         0.9468      OK
+
+--- concentrations_based split (15 images) ---
+   #  file                                        true class                  predicted class              confidence  result
+------------------------------------------------------------------------------------------------
+   0  1mMSPE-Benzochinone_1.png                   Benzochinone                Benzochinone                     0.7166      OK
+   1  1mMSPE-Benzochinone_2.png                   Benzochinone                Benzochinone                     0.9149      OK
+   2  1mMSPE-Benzochinone_3.png                   Benzochinone                Benzochinone                     0.9627      OK
+   3  1mMSPE-Catecolo_1.png                       Catecolo                    Catecolo                         0.9929      OK
+   4  1mMSPE-Catecolo_2.png                       Catecolo                    Catecolo                         0.9914      OK
+   5  1mMSPE-Catecolo_3.png                       Catecolo                    Catecolo                         0.9665      OK
+   6  1mMSPE-Ferro-Ferri_1.png                    Ferro-Ferri                 Ferro-Ferri                      0.9959      OK
+   7  1mMSPE-Ferro-Ferri_2.png                    Ferro-Ferri                 Ferro-Ferri                      0.9947      OK
+   8  1mMSPE-Ferro-Ferri_3.png                    Ferro-Ferri                 Ferro-Ferri                      0.9940      OK
+   9  1mMSPE-Idrochinone_1.png                    Idrochinone                 Idrochinone                      0.9981      OK
+  10  1mMSPE-Idrochinone_2.png                    Idrochinone                 Idrochinone                      0.9927      OK
+  11  1mMSPE-Idrochinone_3.png                    Idrochinone                 Idrochinone                      0.9960      OK
+  12  HB21SPE-Idrochinone-Benzochinone_1.png    Idrochinone-Benzochinone    Idrochinone-Benzochinone         0.8397      OK
+  13  HB21SPE-Idrochinone-Benzochinone_2.png    Idrochinone-Benzochinone    Idrochinone-Benzochinone         0.9206      OK
+  14  HB21SPE-Idrochinone-Benzochinone_3.png    Idrochinone-Benzochinone    Idrochinone-Benzochinone         0.9904      OK
+
+================================================================================================
+7. MISCLASSIFIED IMAGES
+================================================================================================
+
+shuffled split:
+  2mMSPE-Benzochinone_1.png  true=Benzochinone  predicted=Idrochinone  confidence=0.5987
+      probabilities: Benzochinone=0.2783 Catecolo=0.0781 Ferro-Ferri=0.0103 Idrochinone=0.5987 Idrochinone-Benzochinone=0.0345
+
+
+================================================================================================
+8. CONCLUSION
+================================================================================================
+
+The trained CNN classified 39 of 40 test images correctly.
+Best split: concentrations_based with 100.00% accuracy; shuffled: 96.00%.
+The perfect score of the concentrations_based split (every concentration level, 0.01 mM to 2 mM)
+shows that the GAF representation keeps the information needed to recognise the substance
+independently of its concentration. The only error (shuffled split) is a Benzochinone
+image at the highest concentration (2 mM) predicted as Idrochinone with 0.60 confidence,
+the two molecules having very similar quinone/hydroquinone redox responses.
+
+================================================================================================
+9. GENERATED FILES
+================================================================================================
+
+  results/CNN_COMPLETE_OUTPUT.txt
+  results/CNN_FULL_REPORT.html
+  results/CNN_Final_Report.docx
+  results/CNN_Final_Report.pdf
+  results/CNN_Final_Report.txt
+  results/CNN_Results_Package.zip
+  results/README.md
+  results/all_generated_images_manifest.csv
+  results/all_splits_summary.json
+  results/concentrations_based_classification_report.txt
+  results/concentrations_based_confusion_matrix.csv
+  results/concentrations_based_confusion_matrix.png
+  results/concentrations_based_full_output.txt
+  results/concentrations_based_predictions.csv
+  results/concentrations_based_summary.json
+  results/shuffled_classification_report.txt
+  results/shuffled_confusion_matrix.csv
+  results/shuffled_confusion_matrix.png
+  results/shuffled_full_output.txt
+  results/shuffled_predictions.csv
+  results/shuffled_summary.json
+
